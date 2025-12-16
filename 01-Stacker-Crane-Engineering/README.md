@@ -58,8 +58,8 @@ Below are non-confidential examples illustrating my engineering approach and pro
 - Reduced installation time and mis-alignment issues
 
 ### **✔ Operator Maintenance Improvements**
-- Designed a “receiving funnel” for gearbox lubrication maintenance  
-- Reduced oil spillage and improved technician safety
+- Designed a **drain pan** under the forks to catch any liquid dripping from loads during pick-up or placement  
+- Confirmed that the new design had **no interference** with any existing components. :contentReference[oaicite:9]{index=9}
 
 ### **✔ Assembly Tolerance & Interference Management**
 - Identified critical interfaces between mast, carriage, and drive system  
