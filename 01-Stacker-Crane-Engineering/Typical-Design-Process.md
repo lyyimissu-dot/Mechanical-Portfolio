@@ -48,7 +48,8 @@ Based on the requirements, propose options such as:
 
 ### **2.2 Preliminary Calculations**
 - Approximate mast height  
-- Hoisting stroke  
+- Hoisting stroke
+- Calculation of the length of the lifting drag chain
 - Required motor torque & power  
 - Overall structural size estimation  
 - Strength considerations for special loads  
