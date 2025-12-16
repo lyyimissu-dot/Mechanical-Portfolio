@@ -1,25 +1,20 @@
-# Mechanical Portfolio
+# Mechanical Engineering Portfolio
 
-Brief: Mechanical design projects from my 5+ years of experience in automated material-handling systems.
+Hi, I’m Yu.  
+I am a mechanical design engineer with 4+ years of automated stacker crane design experience 
+and currently a Mechanical Engineering MEng student at the University of Guelph.
 
-## Projects in this repo
-- Stacker-Crane-Simplified – simplified documentation of an automated stacker crane
-- Lifting-Platform-Concept – concept design for a lifting carriage
-- Fork-Structure-Study – stiffness and strength study of a fork-like structure
-- Welded-Frame-Examples – welded structures and drafting samples
+This portfolio highlights:
+- Industrial mechanical design experience (stacker cranes)
+- Engineering analysis (risk analysis, uncertainty, FEA)
+- Digital manufacturing and Industry 4.0 projects
+- C programming practice
+- Research project on 3D printing and machine learning (ongoing)
 
-## What this repo demonstrates
-- 2D drafting skills (manufacturing drawings, GD&T, weld symbols)
-- Mechanical design thinking & load paths
-- Collaboration with manufacturing (design for fabrication & assembly)
-- Safety and reliability considerations
-
-## Folder structure
-- Each folder = one project
-- Each project contains:
-  - Documentation/
-  - Analysis/
-  - Media/
-
-## Disclaimer
-All examples are simplified and non-confidential, intended only for portfolio use.
+## 📁 Repository Structure
+1. **Stacker Crane Engineering** – real industrial experience, design process, problem-solving highlights  
+2. **Engineering Analysis** – risk assessment, hot stamping analysis  
+3. **Digital Manufacturing** – CPS, digital twin, automation  
+4. **C Programming** – small working projects  
+5. **FEA Demos** – simplified, non-confidential FEA examples  
+6. **3D Printing + Machine Learning Research (ongoing)**
