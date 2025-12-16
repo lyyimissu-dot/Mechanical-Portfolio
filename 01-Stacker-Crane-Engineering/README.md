@@ -10,7 +10,7 @@ The purpose of this documentation is to present my professional design approach,
 Automated stacker cranes are the core equipment used in high-bay warehouses, enabling automated storage and retrieval (AS/RS).  
 My work primarily focused on:
 
-- Mechanical system design of **double-mast stacker cranes**  
+- Mechanical system design of **different types of stacker cranes**  
 - Parametric modeling and modular component development  
 - Structural analysis, motion design, and load path planning  
 - Manufacturing support and onsite debugging  
