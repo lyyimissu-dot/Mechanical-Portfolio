@@ -1,6 +1,6 @@
 # Stacker Crane Engineering Portfolio
 
-This folder summarizes my experience in designing automated stacker crane systems during my four years as a Mechanical Designer at KSEC Intelligent Technology Co., Ltd.  
+This folder summarizes my experience in designing automated stacker crane systems during my five years as a Mechanical Designer at KSEC Intelligent Technology Co., Ltd.  
 The purpose of this documentation is to present my professional design approach, engineering decision-making, and real industrial problem-solving — without including any confidential or proprietary information.
 
 ---
