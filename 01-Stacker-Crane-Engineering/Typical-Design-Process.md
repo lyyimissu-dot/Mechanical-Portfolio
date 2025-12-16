@@ -40,7 +40,6 @@ Outcome → **Design Input Specification Document**
 ### **2.1 Mechanical Configuration Proposal**
 Based on the requirements, propose options such as:
 - Single-mast vs. double-mast  
-- Chassis type (three-wheel / four-wheel / equalizing wheel set)  
 - Fork type:
   - Single-deep  
   - Double-deep  
