@@ -89,7 +89,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ---
 
-## ## 4. Mechanical Component Selection for New Conveyor/Crane Modules  
+## ## 4. Mechanical Component Selection for New Crane Modules  
 **Objective:** Select appropriate mechanical parts for customized modules.
 
 ### **Components I Have Worked On**
