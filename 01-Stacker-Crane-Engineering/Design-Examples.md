@@ -97,7 +97,6 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 - Winch drum selection  
 - Motor drive shaft  
 - Aluminum profile framing  
-- Couplings  
 - Pulley assemblies  
 
 ### **My Role**
