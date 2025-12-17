@@ -50,8 +50,8 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 - Stress variation negligible (<1 MPa difference)  
 
 <p float="left">
-  <img src="images/platform-deflection.png" width="210">
-  <img src="images/platform-stress.png" width="210">
+  <img src="images/platform-deflection.png" width="45%">
+  <img src="images/platform-stress.png" width="45%">
 </p>
 
 ---
