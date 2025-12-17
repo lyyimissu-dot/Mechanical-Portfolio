@@ -37,6 +37,12 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
   - Max stress ≈ **137 MPa** < yield strength of Q235A  
   - Dynamic acceleration ±0.5 m/s² → no structural risk  
 
+### Before Optimization
+![Original Operator Platform](images/platform_before.png)
+
+### After Optimization
+![Optimized Operator Platform](images/platform_after.png)
+
 ---
 
 ## ## 2. Gantry System – Cable Carrier Length Calculation  
