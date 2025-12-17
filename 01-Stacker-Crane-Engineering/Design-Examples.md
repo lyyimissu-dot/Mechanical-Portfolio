@@ -39,12 +39,12 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ### Before Optimization
 <p align="center">
-  <img src="images/platform_before.jpg" width="420">
+  <img src="images/platform_before.jpg" width="210">
 </p>
 
 ### After Optimization
 <p align="center">
-  <img src="images/platform_after.png" width="420">
+  <img src="images/platform_after.png" width="210">
 </p>
 
 ---
