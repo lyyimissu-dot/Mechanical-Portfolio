@@ -39,7 +39,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ### Before Optimization
 <p align="center">
-  <img src="images/platform_before.jpg" width="210">
+  <img src="images/platform_before.png" width="210">
 </p>
 
 ### After Optimization
