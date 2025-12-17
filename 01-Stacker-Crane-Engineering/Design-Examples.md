@@ -106,7 +106,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ---
 
-## ## 5. CAD Drawing & Modeling Work (2D-focused)
+## ## 5. CAD Drawing & Modeling Work 
 **Objective:** Deliver complete engineering drawing packages for manufacturing and assembly.
 
 Even though many legacy projects used mostly 2D CAD, I produced:
@@ -121,6 +121,13 @@ Even though many legacy projects used mostly 2D CAD, I produced:
 - Clear section views to assist welders and machinists  
 - Manufacturability review with workshop engineers  
 
+### Stacker Crane Simplified Assembly Diagram (For Portfolio Only)
+<p align="center">
+  <img src="images/stacker_schematic.png" width="210">
+</p>
+*This diagram shows the functional relationship among major subsystems  
+(e.g., mast, carriage, fork, track). It does not contain dimensions, materials,   
+or proprietary production details.*
 ---
 
 ## ## 6. Safety & Usability Enhancements (Small but High-impact Improvements)
