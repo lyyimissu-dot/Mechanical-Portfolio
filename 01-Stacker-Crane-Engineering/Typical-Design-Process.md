@@ -160,7 +160,7 @@ Outcome → **Approved Design Ready for Drafting**
 - Exploded views  
 - Weldment details  
 - Tolerance definition  
-- GD&T annotations (where applicable)
+- GD&T annotations 
 
 ### **7.2 Technical Documentation**
 - Installation guide  
@@ -236,6 +236,37 @@ Outcome → **System ready for customer acceptance**
   - Manufacturing  
   - Electrical team  
   - Documentation team  
+
+Outcome → **Traceable & systematic engineering improvement**
+
+---
+
+# ## 11. Training & Internal Communication
+
+### **11.1 Training Scope**
+- Fundamentals of stacker crane operation  
+- Standard operating procedures (SOP)  
+- Preventive maintenance workflow  
+- Manufacturing issues  
+
+Outcome → **Improved operator proficiency, reduced misuse-related failures, and enhanced cross-team communication**
+
+---
+
+# ## 12. Daily Support for Field Issues
+
+### **12.1 Issue Categories**
+- Mechanical failures reported from different project sites  
+- Assembly deviations / tolerance problems  
+- Missing, incorrect, or damaged parts  
+- Sensor & proximity switch mis-triggering  
+
+### **12.2 Resolution Actions**
+- Root-cause analysis based on videos, photos, drawings, and site descriptions  
+- Design of corrective parts / retrofit kits  
+- Creation of revised assembly guides or notices  
+- Remote troubleshooting with on-site engineers
+- Tracking issue recurrence for continuous improvement
 
 Outcome → **Traceable & systematic engineering improvement**
 
