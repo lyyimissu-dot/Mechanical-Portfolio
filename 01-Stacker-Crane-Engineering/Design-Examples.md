@@ -83,7 +83,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ### Photoelectric sensor and bracket for detection
 <p align="center">
-  <img src="images/sensors_and_bracket1.png" width="45%" />
+  <img src="images/sensors_and_bracket_1.png" width="45%" />
   <img src="images/sensors_and_bracket2.png" width="45%" />
 </p>
 
