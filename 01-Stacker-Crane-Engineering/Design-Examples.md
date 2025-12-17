@@ -38,7 +38,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
   - Dynamic acceleration ±0.5 m/s² → no structural risk  
 
 ### Before Optimization
-![Original Operator Platform](images/platform_before.png)
+![Original Operator Platform](images/platform_before.jpg)
 
 ### After Optimization
 ![Optimized Operator Platform](images/platform_after.png)
