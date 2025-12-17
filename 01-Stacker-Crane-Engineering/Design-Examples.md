@@ -137,7 +137,6 @@ or proprietary production details.*
 - Added adjustable rubber buffers under control cabinet → prevents vibration damage.  
 - Optimized footstep spacing and angle → improves operator ergonomics.  
 - Improved guard-door hinge design → smoother movement + lower maintenance.  
-- Added cable-channel dividers → prevents cable entanglement.
 
 These improvements were often implemented after field feedback and significantly improved reliability.
 
