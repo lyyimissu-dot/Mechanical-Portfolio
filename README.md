@@ -1,7 +1,7 @@
 # Mechanical Engineering Portfolio
 
 Hi, I’m Yu.  
-I am a mechanical design engineer with 4+ years of automated stacker crane design experience 
+I am a mechanical design engineer with 5 years of automated stacker crane design experience 
 and currently a Mechanical Engineering MEng student at the University of Guelph.
 
 This portfolio highlights:
