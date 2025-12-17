@@ -51,7 +51,7 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 
 <p float="left">
   <img src="images/platform-deflection.png" width="45%">
-  <img src="images/platform-stress.png" width="45%">
+  <img src="images/platform-stress.png" width="40%">
 </p>
 
 ---
