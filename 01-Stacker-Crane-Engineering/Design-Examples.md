@@ -49,24 +49,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ---
 
-## ## 2. Gantry System – Cable Carrier Length Calculation  
-**Objective:** Ensure proper routing space and motion clearance for vertical and horizontal travel.
-
-### **My Role**
-- Developed calculation sheets for drag-chain required length.  
-- Added motion margin, bending radius constraints, and installation tolerances.  
-- Coordinated with electrical team to verify cable bundle size and routing.
-
-### **Key Engineering Work**
-- Calculated:
-  - Total stroke  
-  - Bending radius  
-  - Pre-tension and safety allowance  
-- Proposed improved mounting brackets to simplify assembly and reduce collision risk.
-
----
-
-## ## 3. Detection Mechanism for Beam Deflection  
+## ## 2. Detection Mechanism for Beam Deflection  
 **Objective:** Improve accuracy of detecting shelf beam settlement in automated warehouse systems.
 
 ### **My Role**
@@ -89,7 +72,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ---
 
-## ## 4. Mechanical Component Selection for New Crane Modules  
+## ## 3. Mechanical Component Selection for New Crane Modules  
 **Objective:** Select appropriate mechanical parts for customized modules.
 
 ### **Components I Have Worked On**
@@ -106,7 +89,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 
 ---
 
-## ## 5. CAD Drawing & Modeling Work 
+## ## 4. CAD Drawing & Modeling Work 
 **Objective:** Deliver complete engineering drawing packages for manufacturing and assembly.
 
 Even though many legacy projects used mostly 2D CAD, I produced:
@@ -131,7 +114,7 @@ or proprietary production details.*
 
 ---
 
-## ## 6. Safety & Usability Enhancements (Small but High-impact Improvements)
+## ## 5. Safety & Usability Enhancements (Small but High-impact Improvements)
 
 ### Examples
 - Added adjustable rubber buffers under control cabinet → prevents vibration damage.  
@@ -142,7 +125,7 @@ These improvements were often implemented after field feedback and significantly
 
 ---
 
-## ## 7. Engineering Change Management (ECR/ECN)
+## ## 6. Engineering Change Management (ECR/ECN)
 **Objective:** Implement design changes systematically and traceably.
 
 ### **Trigger Conditions**
