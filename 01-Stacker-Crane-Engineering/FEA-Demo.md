@@ -24,7 +24,7 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 - Base mounting plates constrained in all degrees of freedom  
 - Cabinet load applied as a distributed force on the support frame  
 - Human load applied as a point load on the walking surface  
-- Material: **Q235A steel**  
+- Material: **Q235A steel (Equivalent to ASTM A36 steel)**  
   - Elastic modulus: 210 GPa  
   - Poisson's ratio: 0.26  
 
