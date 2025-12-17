@@ -98,8 +98,7 @@ Outcome → **Initial 3D model + Interference-free validation**
 - Guide roller force analysis  
 
 ### **4.3 Special Load Cases**
-- Barrel / container gripping force  
-- Fork adjustable spacing mechanism forces  
+- The arrangement of photoelectric sensors used to detect the vertical deflection of rack beams.
 - Vibration considerations for tall masts  
 
 Outcome → **Engineering Calculation Notes**
