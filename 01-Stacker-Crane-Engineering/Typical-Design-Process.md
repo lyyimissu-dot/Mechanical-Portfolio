@@ -109,9 +109,9 @@ Outcome → **Engineering Calculation Notes**
 
 ### **5.1 Mechanical Components**
 - Wheels, bearings  
-- Couplings  
-- Rails, bolts, shim plates  
-- Pulleys, belts, chains  
+- Wire rope, winch drum  
+- Rails, bolts, shafts
+- Pulleys, aluminum profiles
 
 ### **5.2 Electrical & Control-Related Components**
 *(selected collaboratively with electrical engineers)*  
