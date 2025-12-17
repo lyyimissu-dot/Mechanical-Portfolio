@@ -49,7 +49,6 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 - Deformation remained ≈ **1.2 mm**  
 - Stress variation negligible (<1 MPa difference)  
 
-> *(Insert contour plots later)*  
 > - ![Static deformation](images/platform-deflection.png)  
 > - ![Static stress](images/platform-stress.png)
 
