@@ -65,9 +65,7 @@ Outcome → **Concept Drawings & Initial Approval**
 - Top beam / bottom beam  
 - Hoisting platform assembly  
 - Fork system  
-- Traveling chassis  
-- Control cabinet platform  
-- Cable chain routing  
+- Control cabinet platform   
 
 ### **3.2 Component Design & Modeling**
 - Wheels / pulleys  
