@@ -132,7 +132,6 @@ The following diagram illustrates my general design workflow:
 | `Overview.md` | System introduction & key components |
 | `Typical-Design-Process.md` | My complete workflow |
 | `Design-Examples.md` | Non-confidential examples of design improvements |
-| `Innovation-and-Optimization.md` | My contributions to usability, safety, and manufacturability |
 | `FEA-Demo.md` | Simplified FEA studies (non-confidential) |
 | `images/` | Diagrams and sketches used in documentation |
 
