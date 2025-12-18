@@ -28,10 +28,6 @@ The goal is to verify whether the optimized welded-frame structure provides suff
   - Elastic modulus: 210 GPa  
   - Poisson's ratio: 0.26  
 
-> *(Insert images later)*  
-> - ![Platform mesh](images/platform-mesh.png)  
-> - ![Load setup](images/platform-loads.png)
-
 ---
 
 ## 1.3 Results Summary
