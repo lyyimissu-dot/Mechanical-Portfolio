@@ -50,12 +50,12 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 - Stress variation negligible (<1 MPa difference)  
 <div style="display: flex; justify-content: space-between;">
 
-  <figure style="width:45%;">
+  <figure style="width:48%;">
     <img src="images/platform-deflection.png" style="width:100%;">
     <figcaption style="text-align:center;">Figure 1. Static deformation</figcaption>
   </figure>
 
-  <figure style="width:41%;">
+  <figure style="width:48%;">
     <img src="images/platform-stress.png" style="width:100%;">
     <figcaption style="text-align:center;">Figure 2. Static stress distribution</figcaption>
   </figure>
