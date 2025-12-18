@@ -51,12 +51,12 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 <div style="display: flex; justify-content: space-between;">
 
   <figure style="width:48%;">
-    <img src="images/platform-deflection.png" style="width:45%;">
+    <img src="images/platform-deflection.png" style="width:35%;">
     <figcaption style="text-align:center;">Figure 1. Static deformation</figcaption>
   </figure>
 
   <figure style="width:48%;">
-    <img src="images/platform-stress.png" style="width:41%;">
+    <img src="images/platform-stress.png" style="width:35%;">
     <figcaption style="text-align:center;">Figure 2. Static stress distribution</figcaption>
   </figure>
 
