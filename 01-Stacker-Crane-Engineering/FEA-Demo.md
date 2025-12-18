@@ -47,17 +47,18 @@ The goal is to verify whether the optimized welded-frame structure provides suff
 
 ### **Dynamic Load (±0.5 m/s²)**
 - Deformation remained ≈ **1.2 mm**  
-- Stress variation negligible (<1 MPa difference)  
+- Stress variation negligible (<1 MPa difference)
+  
 <div style="display: flex; justify-content: space-between;">
 
   <figure style="width:48%;">
     <img src="images/platform-deflection.png" style="width:35%;">
-    <figcaption style="text-align:center;">Figure 1. Static deformation</figcaption>
+    <figcaption style="text-align:center;">Static deformation</figcaption>
   </figure>
 
   <figure style="width:48%;">
     <img src="images/platform-stress.png" style="width:35%;">
-    <figcaption style="text-align:center;">Figure 2. Static stress distribution</figcaption>
+    <figcaption style="text-align:center;">Static stress distribution</figcaption>
   </figure>
 
 </div>
