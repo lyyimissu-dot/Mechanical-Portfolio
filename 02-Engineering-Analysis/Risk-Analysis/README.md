@@ -68,8 +68,5 @@ This mini-project focuses on three questions:
 - Calculated **kinetic energy** under worst-case emergency stop and quantified **uncertainty** using partial derivatives.
 - Summarised results into a concise engineering report and presentation.
 
-> _Image placeholder – example slide or diagram_  
-> `![Risk analysis presentation snapshot](images/risk_presentation.png)`
-
 ---
 
