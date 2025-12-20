@@ -32,14 +32,10 @@ Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
 ## 3. HAZOP – Fork Node
 
 > _Image placeholder – Fork node sketch_  
-> `![Fork node](images/hazop_fork_node.png)`
 
-| **Parameter**         | **Deviation** | **Possible Causes**                              | **Consequences**                                                   | **Safeguards / Recommendations**                                   |
-|-----------------------|---------------|--------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| Fork height           | Higher        | Limit switch failure; encoder error; wrong target | Collision with upper beam or pallet above; risk of load drop      | Redundant limit switches; software height limits; speed reduction near rack |
-| Fork height           | Lower         | Positioning error; deflection not compensated    | Collision with rack beam; fork trapped under pallet                | Height offset compensation; slow approach mode                     |
-| Fork lateral position | Left / Right  | Misalignment; wrong reference; installation error | Side collision; recurring misplacement on one side                 | Alignment procedure; mechanical stops; positional verification     |
-| Fork tilt / level     | Not level     | Uneven wear; sensor failure; mechanical damage   | Uneven load distribution; increased local stress                   | Level sensor monitoring; preventive maintenance                    |
+<p align="center">
+  <img src="images/hazop_fork.png" width="620">
+</p>
 
 ---
 
