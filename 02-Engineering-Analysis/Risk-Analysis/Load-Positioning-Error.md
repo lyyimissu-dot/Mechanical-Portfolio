@@ -45,10 +45,16 @@ Using 10 days of operating data:
 - **IQR (Interquartile Range):** moderate → variations between days are small.
 
 > _Image placeholder – histogram_  
-> `![Error rate histogram](images/error_histogram.png)`
+
+<p align="center">
+  <img src="images/error_histogram.png" width="420">
+</p>
 
 > _Image placeholder – boxplot_  
-> `![Error rate boxplot](images/error_boxplot.png)`
+
+<p align="center">
+  <img src="images/error_boxplot.png" width="420">
+</p>
 
 ---
 
