@@ -42,6 +42,7 @@ The analysed system is a **stacker crane** that travels along an aisle between r
 <p align="center">
   <img src="images/stacker_overview.png" width="420">
 </p>
+
 ---
 
 ## Analysis Scope
