@@ -3,7 +3,9 @@
 This document summarises the **HAZOP (Hazard and Operability)** analysis I performed for the stacker-crane system.
 
 > _Image placeholder – Main Hazards_  
-
+<p align="center">
+  <img src="images/Hazards.png" width="350">
+</p>
 
 ---
 
