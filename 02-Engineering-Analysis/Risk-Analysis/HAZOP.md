@@ -16,7 +16,7 @@ Analysed nodes:
 1. **Cargo node** – pallet and load on the fork
 2. **Fork node** – fork vertical / horizontal position relative to rack and pallet
 
-Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
+Typical guidewords: **More / Less / No / High / Low / Other than**.
 
 ---
 
