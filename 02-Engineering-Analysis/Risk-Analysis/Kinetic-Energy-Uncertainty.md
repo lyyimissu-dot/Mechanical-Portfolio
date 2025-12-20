@@ -1,58 +1,84 @@
-# Kinetic Energy–Based Risk Analysis
+# Kinetic Energy & Uncertainty-Based Risk Analysis
 
-## Purpose
+## Objective
 
-This section evaluates the **risk of uncontrolled horizontal motion** in an automated stacker crane using a **kinetic-energy model with uncertainty propagation**.  
-The goal is to support **buffer sizing and speed-limit decisions** under worst-case operating conditions.
+This section evaluates the **risk associated with uncontrolled horizontal motion** of an automated stacker crane using **kinetic energy modeling combined with uncertainty propagation**.  
+The analysis supports **buffer selection and speed-control decisions** under worst-case conditions.
 
 ---
 
-## Kinetic Energy Model
+## Kinetic Energy Definition
 
 The horizontal kinetic energy of the crane–load system is defined as:
 
-📌 *Insert equation image here*  
-`KE = 1/2 · (m_crane + m_load) · v²`
+📌 **Equation 1: Kinetic Energy**
+<!-- Insert kinetic energy formula image here -->
+<!-- KE = 1/2 · (m_crane + m_load) · v^2 -->
 
 Where:
 
-- `m_crane` = crane self-weight  
-- `m_load` = payload mass  
-- `v` = horizontal travel speed  
+- `m_crane` — self-weight of the stacker crane  
+- `m_load` — payload mass  
+- `v` — horizontal travel speed  
 
-This represents the **maximum energy that must be absorbed** during emergency stop or control failure.
+This energy represents the **maximum impact energy** that must be absorbed during emergency stop or control failure.
 
 ---
 
-## Uncertainty Consideration
+## Uncertainty Sources
 
-Two dominant uncertainty sources are considered:
+In practical operation, the dominant uncertainty sources are:
 
 - Payload mass variation  
 - Velocity control error  
 
-Using first-order error propagation, the **upper-bound kinetic energy** is estimated rather than relying on a nominal value.
-
-📌 *Insert uncertainty propagation formula image here*
+The crane self-weight is treated as deterministic compared with these variables.
 
 ---
 
-## Engineering Insight
+## Sensitivity Analysis
 
-- Nominal kinetic energy defines **baseline buffer requirements**
-- Propagated uncertainty defines **design safety margin**
-- If upper-bound energy exceeds buffer capacity, **speed reduction or buffer upgrade is required**
+To propagate uncertainty, first-order partial derivatives of kinetic energy are used as sensitivity coefficients:
 
-This approach links **mechanical modeling** directly to **risk mitigation decisions**.
+📌 **Equation 2: Sensitivity to Payload Mass**
+<!-- Insert ∂KE / ∂m_load formula image here -->
+
+📌 **Equation 3: Sensitivity to Velocity**
+<!-- Insert ∂KE / ∂v formula image here -->
+
+These terms describe how mass and speed deviations influence total kinetic energy.
+
+---
+
+## Uncertainty Propagation
+
+Assuming independent uncertainty sources, the combined standard uncertainty of kinetic energy is calculated as:
+
+📌 **Equation 4: Error Propagation Formula**
+<!-- Insert kinetic energy uncertainty propagation formula image here -->
+
+This enables estimation of an **upper-bound kinetic energy** rather than relying on a nominal value.
+
+---
+
+## Engineering Interpretation
+
+- Nominal kinetic energy defines **baseline buffer capacity**
+- Propagated uncertainty defines **required safety margin**
+- If the upper-bound energy exceeds buffer rating:
+  - travel speed must be reduced, or  
+  - higher-capacity buffers must be selected  
+
+This links **mechanical modeling directly to risk mitigation decisions**.
 
 ---
 
 ## Role in Overall Risk Assessment
 
-This analysis complements:
+This analysis provides quantitative support for hazards identified by:
 
-- **HAZOP** → identifies uncontrolled motion hazards  
-- **Risk Matrix** → classifies severity as high  
-- **Error-rate analysis** → reflects operational variability  
+- **HAZOP** — uncontrolled motion scenarios  
+- **Risk Matrix** — high-severity collision risks  
+- **Error-rate analysis** — operational variability  
 
-Together, they provide a **quantitative justification** for safety-related design choices.
+Together, these methods form a **defensible, multi-layered risk assessment framework**.
