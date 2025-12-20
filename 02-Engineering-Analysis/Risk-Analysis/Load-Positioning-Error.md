@@ -24,14 +24,12 @@ Evaluate:
 
 For each day:
 
-\[
-\text{Error Rate} = \frac{\text{Number of misplacements}}{\text{Total storage / retrieval operations}} \times 100\%
-\]
+**Error Rate (%) = (Number of misplacements / Total storage & retrieval operations) × 100%**
 
 Where:
-
-- **Misplacements** = loads not stored or retrieved in the correct location
+- **Misplacements** = loads not stored or retrieved in the correct location  
 - **Total operations** = all successful + misplacement attempts
+
 
 ---
 
