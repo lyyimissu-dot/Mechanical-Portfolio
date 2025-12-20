@@ -64,10 +64,3 @@ The overall risk level is determined by intersecting **severity** and **likeliho
 
 ---
 
-## 6. Figures (Insert Later)
-
-### 6.1 Risk Matrix Image
-> *(Insert visual risk matrix image here)*
-
-```md
-![Risk Matrix Overview](images/risk-matrix.png)
