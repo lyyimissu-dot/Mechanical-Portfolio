@@ -2,8 +2,8 @@
 
 This document summarises the **HAZOP (Hazard and Operability)** analysis I performed for the stacker-crane system.
 
-> _Image placeholder – HAZOP workflow_  
-> `![HAZOP workflow](images/hazop_workflow.png)`
+> _Image placeholder – Main Hazards_  
+
 
 ---
 
