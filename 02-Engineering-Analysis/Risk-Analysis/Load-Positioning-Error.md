@@ -13,7 +13,10 @@ Evaluate:
 - How this supports **overall risk assessment**
 
 > _Image placeholder – data table or screenshot_  
-> `![Daily error data](images/error_data_table.png)`
+
+<p align="center">
+  <img src="images/error_data_table.png" width="420">
+</p>
 
 ---
 
