@@ -1,45 +1,58 @@
-# Kinetic Energy Uncertainty Analysis
+# Kinetic Energy–Based Risk Analysis
 
-## 1. Background
+## Purpose
 
-During horizontal travel of a stacker crane, especially under emergency stop conditions, the kinetic energy of the moving system must be safely absorbed by the structure and braking system.
-
-Due to uncertainties in payload mass, travel speed, and braking response, the actual kinetic energy may deviate from its nominal value. This analysis evaluates the safety impact of such uncertainty from a risk perspective.
-
----
-
-## 2. Kinetic Energy Definition
-
-The kinetic energy of the moving system is determined by its effective mass and horizontal velocity.
-
-![Kinetic Energy Formula](images/ke_formula.png)
-<!-- TODO: Insert kinetic energy formula image
-     Suggested content: KE = 1/2 · m · v² -->
-
-The effective mass includes the crane structure, carriage, payload, and equivalent rotating mass.
+This section evaluates the **risk of uncontrolled horizontal motion** in an automated stacker crane using a **kinetic-energy model with uncertainty propagation**.  
+The goal is to support **buffer sizing and speed-limit decisions** under worst-case operating conditions.
 
 ---
 
-## 3. Sources of Uncertainty
+## Kinetic Energy Model
 
-Key uncertainty sources include:
+The horizontal kinetic energy of the crane–load system is defined as:
 
-- **Mass variation** due to payload changes and attachments  
-- **Velocity overshoot** caused by control delay during emergency stop  
-- **Braking uncertainty** from friction and system response variability  
+📌 *Insert equation image here*  
+`KE = 1/2 · (m_crane + m_load) · v²`
 
-![Uncertainty Sources Illustration](images/ke_uncertainty_sources.png)
-<!-- TODO: Insert uncertainty source illustration -->
+Where:
 
-These factors lead to a range of possible kinetic energy values rather than a single deterministic value.
+- `m_crane` = crane self-weight  
+- `m_load` = payload mass  
+- `v` = horizontal travel speed  
+
+This represents the **maximum energy that must be absorbed** during emergency stop or control failure.
 
 ---
 
-## 4. Engineering and Risk Implications
+## Uncertainty Consideration
 
-The worst-case kinetic energy scenario occurs when maximum payload and speed overshoot coincide during emergency braking.
+Two dominant uncertainty sources are considered:
 
-![Worst Case Kinetic Energy Scenario](images/worst_case_ke.png)
-<!-- TODO: Insert worst-case scenario illustration -->
+- Payload mass variation  
+- Velocity control error  
 
-Elevated kinetic energy increases structural demand and contributes to higher risk levels in the system risk matrix. This analysis supports conservative design decisions and feeds into the overall HAZOP and risk assessment framework.
+Using first-order error propagation, the **upper-bound kinetic energy** is estimated rather than relying on a nominal value.
+
+📌 *Insert uncertainty propagation formula image here*
+
+---
+
+## Engineering Insight
+
+- Nominal kinetic energy defines **baseline buffer requirements**
+- Propagated uncertainty defines **design safety margin**
+- If upper-bound energy exceeds buffer capacity, **speed reduction or buffer upgrade is required**
+
+This approach links **mechanical modeling** directly to **risk mitigation decisions**.
+
+---
+
+## Role in Overall Risk Assessment
+
+This analysis complements:
+
+- **HAZOP** → identifies uncontrolled motion hazards  
+- **Risk Matrix** → classifies severity as high  
+- **Error-rate analysis** → reflects operational variability  
+
+Together, they provide a **quantitative justification** for safety-related design choices.
