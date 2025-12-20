@@ -80,6 +80,4 @@ This suggests that:
   - **Incorrect load handling** (wrong pallet picked)
 - The **error rate** is therefore combined with **hazard severity** in `Risk-Matrix.md`.
 
-> _Image placeholder – combined risk chart_  
-> `![Error vs risk](images/error_risk_chart.png)`
 
