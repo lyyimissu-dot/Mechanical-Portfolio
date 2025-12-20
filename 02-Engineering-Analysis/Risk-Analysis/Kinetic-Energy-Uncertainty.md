@@ -1,98 +1,137 @@
-# Kinetic Energy & Uncertainty – Emergency Stop Scenario
+# Kinetic Energy Uncertainty Analysis
 
-This document analyses the **kinetic energy** of the stacker crane during horizontal travel and evaluates the **uncertainty** in that energy when an **emergency stop** occurs.
+## 1. Purpose and Background
 
----
+During high-speed horizontal travel of a stacker crane, especially under emergency stop conditions, the kinetic energy of the moving system must be safely dissipated by structural components and braking mechanisms.
 
-## 1. Scenario Description
+However, uncertainties in system mass, velocity, and stopping distance may lead to deviations between expected and actual kinetic energy levels. This analysis evaluates how such uncertainties influence safety risk and structural demand.
 
-- Operating mode: **Horizontal travel** along the aisle
-- Direction: **+Y** (forward)
-- Event: **Emergency stop** from nominal travel speed
-- Goal: Estimate **impact severity potential** using kinetic energy.
+This study is intended as a **risk-oriented engineering assessment**, not a detailed transient dynamic simulation.
 
 ---
 
-## 2. Parameters and Assumptions
+## 2. Definition of Kinetic Energy
 
-- Crane self-weight \( M = 10,000 \,\text{kg} \)
-- Rated load \( m = 1,000 \pm 5 \,\text{kg} \)
-- Maximum travel speed \( v = 160 \pm 2 \,\text{m/min} \)
+The kinetic energy of the moving stacker crane system is defined by the classical mechanical relationship between mass and velocity.
 
-Converted speed:
+![Kinetic Energy Formula](images/ke_formula.png)
+<!-- TODO: Insert kinetic energy formula image here
+     Suggested content: KE = 1/2 · m · v²
+     Filename: ke_formula.png -->
 
-\[
-v = \frac{160}{60} \approx 2.67 \,\text{m/s}
-\]
+Where:
 
----
+- **m** = effective moving mass of the crane system  
+- **v** = horizontal travel velocity  
 
-## 3. Kinetic Energy Calculation
-
-\[
-E = \frac{(M + m) v^2}{2}
-\]
-
-Substituting the nominal values:
-
-\[
-E \approx \frac{(10,000 + 1,000) \times 2.67^2}{2} \approx 39.1 \,\text{kJ}
-\]
+The effective mass includes the crane frame, carriage, payload, and a portion of rotating components converted into equivalent translational mass.
 
 ---
 
-## 4. Uncertainty Propagation
+## 3. Sources of Uncertainty
 
-Treat \( m \) and \( v \) as independent variables with small uncertainties.
+Several uncertainty sources may affect the actual kinetic energy during operation:
 
-\[
-E = \frac{1}{2}(M+m)v^2
-\]
+### 3.1 Mass Uncertainty
 
-\[
-\frac{\partial E}{\partial m} = \frac{v^2}{2}
-\]
+- Payload weight variation  
+- Optional attachments or tooling  
+- Manufacturing tolerances  
 
-\[
-\frac{\partial E}{\partial v} = (M+m)v
-\]
-
-Approximate uncertainty in \(E\):
-
-\[
-\sigma_E = \sqrt{\left(\frac{\partial E}{\partial m} \sigma_m \right)^2
-            + \left(\frac{\partial E}{\partial v} \sigma_v \right)^2}
-\]
-
-With:
-
-- \( \sigma_m = 5 \,\text{kg} \)
-- \( \sigma_v = 2 \,\text{m/min} = 0.033 \,\text{m/s} \)
-
-The final result is approximately:
-
-\[
-E = 39.1 \pm 0.5 \,\text{kJ}
-\]
+![Mass Uncertainty Illustration](images/mass_uncertainty.png)
+<!-- TODO: Insert mass uncertainty illustration or schematic -->
 
 ---
 
-## 5. Engineering Interpretation
+### 3.2 Velocity Uncertainty
 
-- Even at moderate warehouse speeds, the **kinetic energy is high** due to the large mass.
-- A **controlled deceleration** is essential to avoid:
-  - Excessive loads on the mast and rails  
-  - Loss of stability if the load is not properly secured
-- The small uncertainty band (±0.5 kJ) shows that the energy estimate is **robust** with respect to typical variations in load and speed.
+- Control system overshoot  
+- Encoder resolution limits  
+- Emergency stop reaction delay  
 
-> _Image placeholder – kinetic energy bar chart_  
+![Velocity Uncertainty Illustration](images/velocity_uncertainty.png)
+<!-- TODO: Insert velocity uncertainty illustration -->
 
-<p align="center">
-  <img src="images/kinetic_energy_bar.png" width="620">
-</p>
+---
 
-> _Image placeholder – equation snapshot from report_  
+### 3.3 Stopping Distance Uncertainty
 
-<p align="center">
-  <img src="images/error_propagation.png" width="620">
-</p>
+- Brake performance degradation  
+- Rail-wheel friction variation  
+- Structural flexibility  
+
+![Stopping Distance Illustration](images/stopping_distance_uncertainty.png)
+<!-- TODO: Insert stopping distance or braking distance illustration -->
+
+---
+
+## 4. Uncertainty Propagation Concept
+
+The combined effect of mass and velocity uncertainty leads to a range of possible kinetic energy values rather than a single deterministic value.
+
+Instead of a closed-form equation, this analysis considers **upper-bound and lower-bound scenarios**:
+
+- Minimum kinetic energy (light load + nominal speed)  
+- Nominal kinetic energy  
+- Maximum kinetic energy (heavy load + speed overshoot)
+
+![Kinetic Energy Range Diagram](images/ke_uncertainty_range.png)
+<!-- TODO: Insert kinetic energy range diagram -->
+
+---
+
+## 5. Worst-Case Energy Scenario
+
+The worst-case kinetic energy occurs when:
+
+- Payload mass is at maximum allowable value  
+- Travel speed exceeds nominal due to control delay  
+- Emergency stop occurs at peak velocity  
+
+![Worst Case Scenario Diagram](images/worst_case_ke.png)
+<!-- TODO: Insert worst-case kinetic energy scenario illustration -->
+
+This scenario governs structural checks and safety margin evaluation.
+
+---
+
+## 6. Engineering Implications
+
+Elevated kinetic energy directly increases:
+
+- Structural bending demand on columns and base frame  
+- Contact forces at wheel–rail interfaces  
+- Stress concentration at joint and connection regions  
+
+![Structural Impact Illustration](images/structural_impact.png)
+<!-- TODO: Insert structural impact or stress illustration -->
+
+---
+
+## 7. Risk Interpretation
+
+Rather than relying on absolute kinetic energy values, this analysis focuses on **risk classification**:
+
+- Likelihood of exceeding design energy absorption capacity  
+- Severity of potential structural or system damage  
+- Relationship to emergency stop frequency  
+
+This information feeds directly into the **Risk Matrix and HAZOP analysis**.
+
+---
+
+## 8. Limitations
+
+- Linear static assumptions  
+- No explicit transient dynamic response  
+- No thermal effects from braking energy dissipation  
+
+These limitations are acceptable for **early-stage risk screening** and portfolio demonstration purposes.
+
+---
+
+## 9. Conclusion
+
+Kinetic energy uncertainty represents a critical contributor to stacker crane operational risk. By evaluating conservative upper-bound scenarios, the analysis ensures that structural and safety-related design decisions remain robust against real-world variability.
+
+This approach supports risk-informed engineering decisions prior to detailed dynamic simulation or physical testing.
