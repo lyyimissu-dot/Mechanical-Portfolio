@@ -4,7 +4,7 @@ This document summarises the **HAZOP (Hazard and Operability)** analysis I perfo
 
 > _Image placeholder – Main Hazards_  
 <p align="center">
-  <img src="images/Hazards.png" width="350">
+  <img src="images/Hazards.png" width="420">
 </p>
 
 ---
