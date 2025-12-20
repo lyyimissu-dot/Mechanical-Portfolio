@@ -121,7 +121,7 @@ This is a **global stiffness check**, not a detailed joint simulation.
 > - ![Deflection](images/column-deflection.png)  
 > - ![Stress](images/column-stress.png)
 <video controls width="600">
-  <source src="images/Study Result.mp4" type="video/mp4">
+  <source src="https://github.com/lyyimissu-dot/Mechanical-Portfolio/raw/main/01-Stacker-Crane-Engineering/images/Study%20Result.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ---
