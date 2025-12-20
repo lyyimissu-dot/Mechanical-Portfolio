@@ -66,7 +66,7 @@ This confirms the structural feasibility of the optimized design.
 ---
 
 # 2. Column Structure — Preliminary Global Stiffness Evaluation  
-(*This section is intentionally simplified; final version will be updated after improved load application and contact settings.*)
+(*This load case represents an emergency stop scenario. The frame is constrained at wheel contact regions (ground support), and an equivalent inertial load is applied along the travel direction to capture deceleration effects.*)
 
 ## 2.1 Objective  
 To assess the bending stiffness of a **24-m-tall stacker-crane column (400×300 mm steel section)** under self-weight and running acceleration.
