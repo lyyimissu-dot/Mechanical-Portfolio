@@ -24,14 +24,8 @@ Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
 
 > _Image placeholder – Cargo node sketch_  
 <p align="center">
-  <img src="images/hazop_cargo_node.png" width="420">
+  <img src="images/hazop_cargo_node.png" width="520">
 </p>
-
-| **Parameter** | **Deviation** | **Possible Causes**                                                | **Consequences**                                                   | **Safeguards / Recommendations**                                      |
-|--------------|---------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|
-| Load mass    | More          | Overloading; wrong pallet type; sensor calibration drift          | Wire-rope overload; structural damage; potential load drop        | Overload limiter; regular load-cell calibration; clear load-rating labels |
-| Load mass    | Less          | Incorrect data in WMS; empty pallet mistakenly treated as loaded  | Inefficient storage; incorrect inventory; unexpected dynamics     | Cross-check with barcode / vision; WMS validation rules               |
-| Load secured | No / Poor     | Missing straps; operator negligence; worn pallet condition        | Load shift during acceleration or emergency stop; loss of stability | Visual inspection; interlock requiring “load secured” confirmation     |
 
 ---
 
