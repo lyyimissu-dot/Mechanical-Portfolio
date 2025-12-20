@@ -39,9 +39,8 @@ The analysed system is a **stacker crane** that travels along an aisle between r
   - Pallet loading / unloading
 
 > _Image placeholder – system overview_  
-> `![Stacker crane overview](images/stacker_overview.png)`
 <p align="center">
-  <img src="images/stacker_overview.png" width="210">
+  <img src="images/stacker_overview.png" width="420">
 </p>
 ---
 
