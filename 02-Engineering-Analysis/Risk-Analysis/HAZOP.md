@@ -23,7 +23,9 @@ Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
 ## 2. HAZOP – Cargo Node
 
 > _Image placeholder – Cargo node sketch_  
-> `![Cargo node](images/hazop_cargo_node.png)`
+<p align="center">
+  <img src="images/hazop_cargo_node.png" width="420">
+</p>
 
 | **Parameter** | **Deviation** | **Possible Causes**                                                | **Consequences**                                                   | **Safeguards / Recommendations**                                      |
 |--------------|---------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|
