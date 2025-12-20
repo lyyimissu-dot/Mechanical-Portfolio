@@ -53,7 +53,7 @@ Using 10 days of operating data:
 > _Image placeholder – boxplot_  
 
 <p align="center">
-  <img src="images/error_boxplot.png" width="420">
+  <img src="images/error_boxplot.png" width="300">
 </p>
 
 ---
