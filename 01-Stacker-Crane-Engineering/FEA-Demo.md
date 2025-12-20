@@ -65,7 +65,7 @@ This confirms the structural feasibility of the optimized design.
 
 ---
 
-# 2. Column Structure — Preliminary Global Stiffness Evaluation  
+# 2. Column Structure — Preliminary Global Stiffness Evaluation (Using Inventor) 
 (*This load case represents an emergency stop scenario. The frame is constrained at wheel contact regions (ground support), and an equivalent inertial load is applied along the travel direction to capture deceleration effects.*)
 
 ## 2.1 Objective  
@@ -77,12 +77,14 @@ This is a **global stiffness check**, not a detailed joint simulation.
 
 ## 2.2 Model Setup  
 - Column separated into top beam, bottom frame, front & rear columns  
-- Material: **Q235A**  
+- Material: **Q235A (Equivalent to ASTM A36 steel)**  
 - Mesh:  
-  - Global element size: 50 mm  
-  - Local refinement at stress-concentration zones: 1 mm  
-- Node count: 125,611  
-- Element count: 20,360  
+  - Average element size: 0.5
+  - Minimum element size: 0.2
+  - Grading factor: 1.5 
+  - Maximum turn angle: 60 deg 
+- Node count: 874590  
+- Element count: 457183  
 
 > *(Insert later)*  
 > - ![Mesh](images/column-mesh.png)
