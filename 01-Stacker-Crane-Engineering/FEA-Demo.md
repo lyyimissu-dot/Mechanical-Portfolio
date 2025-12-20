@@ -120,7 +120,10 @@ This is a **global stiffness check**, not a detailed joint simulation.
 > *(Insert contour plots later)*  
 > - ![Deflection](images/column-deflection.png)  
 > - ![Stress](images/column-stress.png)
-
+<video controls width="600">
+  <source src="images/Study Result.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 # 3. Notes & Planned Improvements
