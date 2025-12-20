@@ -12,7 +12,7 @@ Evaluate:
 - Whether the error rate is **stable** or has **outliers / abnormal days**
 - How this supports **overall risk assessment**
 
-> _Image placeholder – data table or screenshot_  
+> _Image placeholder – data table_  
 
 <p align="center">
   <img src="images/error_data_table.png" width="420">
