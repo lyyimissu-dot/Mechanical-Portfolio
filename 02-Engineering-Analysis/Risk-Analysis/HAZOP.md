@@ -48,6 +48,4 @@ Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
   - Clear **load-rating and operating procedures**
 - The HAZOP results are later mapped into the **quantitative risk matrix** in `Risk-Matrix.md`.
 
-> _Image placeholder – HAZOP summary chart_  
-> `![HAZOP summary](images/hazop_summary.png)`
 
