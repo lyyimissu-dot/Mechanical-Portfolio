@@ -62,5 +62,4 @@ The overall risk level is determined by intersecting **severity** and **likeliho
 | **D** | Low risk | Acceptable with standard controls |
 | **Negligible** | Minimal risk | No action required |
 
----
 
