@@ -24,7 +24,7 @@ Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
 
 > _Image placeholder – Cargo node sketch_  
 <p align="center">
-  <img src="images/hazop_cargo_node.png" width="520">
+  <img src="images/hazop_cargo_node.png" width="620">
 </p>
 
 ---
