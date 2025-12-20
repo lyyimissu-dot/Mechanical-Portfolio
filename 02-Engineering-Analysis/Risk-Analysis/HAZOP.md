@@ -34,7 +34,7 @@ Typical guidewords: **More / Less / No / High / Low / Mis- / Other than**.
 > _Image placeholder – Fork node sketch_  
 
 <p align="center">
-  <img src="images/hazop_fork.png" width="620">
+  <img src="images/hazop_fork_node.png" width="620">
 </p>
 
 ---
