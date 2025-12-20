@@ -108,7 +108,7 @@ This is a **global stiffness check**, not a detailed joint simulation.
 ## 2.4 Results (Preliminary)
 
 ### **Maximum deformation (5 m unsupported span):**
-- **≈15.65 mm** at column top  
+- **≈95.49 mm** at column top  
 
 ### **Stress distribution:**
 - Peak stress **≈54.5 MPa**, mainly at connections and bending zones  
@@ -117,7 +117,7 @@ This is a **global stiffness check**, not a detailed joint simulation.
 ### **Comparison with theoretical deflection**
 - Analytical allowable deflection range:  
   - f = H/2000 ~ H/1000 = 12–24 mm  
-- FEA result: **15.65 mm → within allowable range**  
+- FEA result: **95.49 mm → exceeds allowable range**  
 
 > *(Insert contour plots later)*  
 > - ![Deflection](images/column-deflection.png)  
