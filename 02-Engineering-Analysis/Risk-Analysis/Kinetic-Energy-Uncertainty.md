@@ -11,9 +11,6 @@ This document analyses the **kinetic energy** of the stacker crane during horizo
 - Event: **Emergency stop** from nominal travel speed
 - Goal: Estimate **impact severity potential** using kinetic energy.
 
-> _Image placeholder – crane motion sketch_  
-> `![Crane motion](images/kinetic_motion_sketch.png)`
-
 ---
 
 ## 2. Parameters and Assumptions
@@ -89,8 +86,13 @@ E = 39.1 \pm 0.5 \,\text{kJ}
 - The small uncertainty band (±0.5 kJ) shows that the energy estimate is **robust** with respect to typical variations in load and speed.
 
 > _Image placeholder – kinetic energy bar chart_  
-> `![Kinetic energy with uncertainty](images/kinetic_energy_bar.png)`
+
+<p align="center">
+  <img src="images/kinetic_energy_bar.png" width="620">
+</p>
 
 > _Image placeholder – equation snapshot from report_  
-> `![Error propagation derivation](images/error_propagation.png)`
 
+<p align="center">
+  <img src="images/error_propagation.png" width="620">
+</p>
