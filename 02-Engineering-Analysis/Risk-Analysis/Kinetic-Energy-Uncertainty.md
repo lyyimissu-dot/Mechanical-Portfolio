@@ -42,11 +42,11 @@ The crane self-weight is treated as deterministic compared with these variables.
 
 To propagate uncertainty, first-order partial derivatives of kinetic energy are used as sensitivity coefficients:
 
-📌 **Equation 2: Sensitivity to Payload Mass**
-<!-- Insert ∂KE / ∂m_load formula image here -->
+📌 **Equation 2: Sensitivity to Payload Mass/Crane Mass/Speed**
 
-📌 **Equation 3: Sensitivity to Velocity**
-<!-- Insert ∂KE / ∂v formula image here -->
+<p align="center">
+  <img src="images/equation2.png" width="150">
+</p>
 
 These terms describe how mass and speed deviations influence total kinetic energy.
 
@@ -56,8 +56,11 @@ These terms describe how mass and speed deviations influence total kinetic energ
 
 Assuming independent uncertainty sources, the combined standard uncertainty of kinetic energy is calculated as:
 
-📌 **Equation 4: Error Propagation Formula**
-<!-- Insert kinetic energy uncertainty propagation formula image here -->
+📌 **Equation 3: Error Propagation Formula**
+
+<p align="center">
+  <img src="images/equation3.png" width="150">
+</p>
 
 This enables estimation of an **upper-bound kinetic energy** rather than relying on a nominal value.
 
