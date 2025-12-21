@@ -128,7 +128,7 @@ Outcome → **Engineering Calculation Notes**
   - 3D models  
   - Lead times  
 
-Outcome → **Bill of Materials (BOM v1.0)**
+Outcome → **Bill of Materials**
 
 ---
 
