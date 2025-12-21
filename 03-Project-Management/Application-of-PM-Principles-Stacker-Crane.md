@@ -25,7 +25,9 @@ The following PM tools were applied in an integrated manner:
 - Decomposed the project into design, production, logistics, and installation phases  
 - Defined clear task boundaries and deliverables  
 
-📌 *Insert WBS figure here*
+<p align="center">
+  <img src="images/Hazards.png" width="620">
+</p>
 
 ---
 
