@@ -57,18 +57,28 @@ The following PM tools were applied in an integrated manner:
   <img src="images/Design_Cost.png" width="620">
 </p>
 
+### Design Cost Breakdown
+---
+
 <p align="center">
   <img src="images/Production_Cost.png" width="620">
 </p>
+
+### Production Cost Breakdown
+---
 
 <p align="center">
   <img src="images/Shipping_Cost.png" width="620">
 </p>
 
+### Shipping Cost Breakdown
+---
+
 <p align="center">
   <img src="images/Installation_Cost.png" width="620">
 </p>
 
+### Installation Cost Breakdown
 ---
 
 ### Responsibility Assignment (RACI)
@@ -78,6 +88,8 @@ The following PM tools were applied in an integrated manner:
 <p align="center">
   <img src="images/RACI_1.png" width="620">
 </p>
+
+---
 
 <p align="center">
   <img src="images/RACI_2.png" width="620">
