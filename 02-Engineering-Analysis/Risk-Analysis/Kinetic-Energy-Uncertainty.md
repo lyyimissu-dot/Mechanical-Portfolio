@@ -17,8 +17,8 @@ The horizontal kinetic energy of the crane–load system is defined as:
 
 Where:
 
-- `m_crane` — self-weight of the stacker crane  
-- `m_load` — payload mass  
+- `M` — self-weight of the stacker crane  
+- `m` — payload mass  
 - `v` — horizontal travel speed  
 
 This energy represents the **maximum impact energy** that must be absorbed during emergency stop or control failure.
