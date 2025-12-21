@@ -12,8 +12,10 @@ The analysis supports **buffer selection and speed-control decisions** under wor
 The horizontal kinetic energy of the crane–load system is defined as:
 
 📌 **Equation 1: Kinetic Energy**
-<!-- Insert kinetic energy formula image here -->
-<!-- KE = 1/2 · (m_crane + m_load) · v^2 -->
+
+<p align="center">
+  <img src="images/equation1.png" width="150">
+</p>
 
 Where:
 
