@@ -103,7 +103,7 @@ The following PM tools were applied in an integrated manner:
 - Proposed mitigation strategies for high-risk items  
 
 <p align="center">
-  <img src="images/FMEA.png" width="620">
+  <img src="images/FMEA.png" width="820">
 </p>
 
 ---
