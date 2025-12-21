@@ -26,7 +26,7 @@ The following PM tools were applied in an integrated manner:
 - Defined clear task boundaries and deliverables  
 
 <p align="center">
-  <img src="images/Hazards.png" width="620">
+  <img src="images/WBS.png" width="620">
 </p>
 
 ---
@@ -36,7 +36,13 @@ The following PM tools were applied in an integrated manner:
 - Identified critical-path activities affecting project duration  
 - Evaluated schedule compression (crashing) options  
 
-📌 *Insert Gantt chart & CPM figure here*
+<p align="center">
+  <img src="images/Gantt.png" width="620">
+</p>
+
+<p align="center">
+  <img src="images/CPA.png" width="620">
+</p>
 
 ---
 
@@ -44,7 +50,21 @@ The following PM tools were applied in an integrated manner:
 - Estimated design, production, shipping, and installation costs  
 - Applied contingency planning to manage uncertainty  
 
-📌 *Insert cost breakdown figure here*
+<p align="center">
+  <img src="images/Design_Cost.png" width="620">
+</p>
+
+<p align="center">
+  <img src="images/Production_Cost.png" width="620">
+</p>
+
+<p align="center">
+  <img src="images/Shipping_Cost.png" width="620">
+</p>
+
+<p align="center">
+  <img src="images/Installation_Cost.png" width="620">
+</p>
 
 ---
 
@@ -52,7 +72,13 @@ The following PM tools were applied in an integrated manner:
 - Defined clear roles across engineering, logistics, QA, and client stakeholders  
 - Reduced ambiguity in task ownership  
 
-📌 *Insert RACI matrix here*
+<p align="center">
+  <img src="images/RACI_1.png" width="620">
+</p>
+
+<p align="center">
+  <img src="images/RACI_2.png" width="620">
+</p>
 
 ---
 
@@ -61,7 +87,9 @@ The following PM tools were applied in an integrated manner:
 - Evaluated severity, occurrence, and detection to calculate RPN  
 - Proposed mitigation strategies for high-risk items  
 
-📌 *Insert FMEA table here*
+<p align="center">
+  <img src="images/FMEA.png" width="620">
+</p>
 
 ---
 
