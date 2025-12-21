@@ -39,8 +39,6 @@ The following PM tools were applied in an integrated manner:
 📌 **Gantt Chart & CPM Overview**  
 [🔗 Click here for interactive Gantt chart (online)](https://coda.io/d/Crane-Project_d9_OyeiMAmZ/Crane-Project-Management_sukfNqKR#Tasks-and-Milestones_tuaYQC0N)
 
-![Gantt Chart with Critical Path](images/gantt-chart.png)
-
 <p align="center">
   <img src="images/Gantt.png" width="620">
 </p>
