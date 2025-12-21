@@ -34,7 +34,7 @@ All examples are rewritten to ensure no confidential drawings, parameters, or pr
 - Conducted real-load experiment using **200 kg counterweight + 75 kg human load**.  
 - Performed static and dynamic FEA:
   - Max deformation ≈ **1.2 mm**  
-  - Max stress ≈ **137 MPa** < yield strength of Q235A (Equivalent to ASTM A36 steel))  
+  - Max stress ≈ **137 MPa** < yield strength of Q235A (Equivalent to ASTM A36 steel)  
   - Dynamic acceleration ±0.5 m/s² → no structural risk  
 
 ### Before Optimization
