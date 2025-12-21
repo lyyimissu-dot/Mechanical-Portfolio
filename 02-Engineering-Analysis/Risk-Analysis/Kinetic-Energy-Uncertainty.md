@@ -33,8 +33,7 @@ In practical operation, the dominant uncertainty sources are:
 
 - Payload mass variation  
 - Velocity control error  
-
-The crane self-weight is treated as deterministic compared with these variables.
+- Self-weight of the stacker crane
 
 ---
 
@@ -45,7 +44,7 @@ To propagate uncertainty, first-order partial derivatives of kinetic energy are 
 📌 **Equation 2: Sensitivity to Payload Mass/Crane Mass/Speed**
 
 <p align="center">
-  <img src="images/equation2.png" width="150">
+  <img src="images/equation2.png" width="250">
 </p>
 
 These terms describe how mass and speed deviations influence total kinetic energy.
@@ -59,7 +58,7 @@ Assuming independent uncertainty sources, the combined standard uncertainty of k
 📌 **Equation 3: Error Propagation Formula**
 
 <p align="center">
-  <img src="images/equation3.png" width="150">
+  <img src="images/equation3.png" width="250">
 </p>
 
 This enables estimation of an **upper-bound kinetic energy** rather than relying on a nominal value.
