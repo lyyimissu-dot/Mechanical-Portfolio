@@ -14,7 +14,6 @@ This portfolio highlights:
 ## 📁 Repository Structure
 1. **Stacker Crane Engineering** – real industrial experience, design process, problem-solving highlights  
 2. **Engineering Analysis** – risk assessment, hot stamping analysis  
-3. **Digital Manufacturing** – CPS, digital twin, automation  
-4. **C Programming** – small working projects  
-5. **FEA Demos** – simplified, non-confidential FEA examples  
-6. **3D Printing + Machine Learning Research (ongoing)**
+3. **Project Management** – WBS, Critical Path, FMEA, Cost Estimation  
+4. **Personal Development** – Wavemakers project  
+5. **3D Printing + Machine Learning Research (ongoing)**
