@@ -288,5 +288,5 @@ This structured workflow showcases my real-world engineering experience applicab
 ✔ Mechanical Drafter  
 ✔ Manufacturing/Process Engineer  
 ✔ Automation Equipment Engineer  
-
+✔ Logistics Solution Engineer 
 
