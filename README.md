@@ -1,9 +1,5 @@
 # Mechanical Engineering Portfolio
 
-Hi, I’m Yu.  
-I am a mechanical design engineer with 5 years of automated stacker crane design experience 
-and currently a Mechanical Engineering MEng student at the University of Guelph.
-
 This portfolio highlights:
 - Industrial mechanical design experience (stacker cranes)
 - Engineering analysis (risk analysis, uncertainty, FEA)
@@ -16,4 +12,4 @@ This portfolio highlights:
 2. **Engineering Analysis** – risk assessment, hot stamping analysis  
 3. **Project Management** – WBS, Critical Path, FMEA, Cost Estimation  
 4. **Personal Development** – Wavemakers project  
-5. **Sustainable manufacturing + Circular economics Research **
+5. **Circular Economy Assessment for AS/RS Equipment**
