@@ -21,10 +21,6 @@ This project applies circular economy assessment to automated storage and retrie
 </p>
 ![Research Methodology](Images/methodology-framework.png)
 
-### Stacker Crane System Architecture
-
-![Stacker Crane System Architecture](Images/system-architecture.png)
-
 ### Lifecycle Flow
 
 ![Lifecycle Flow](Images/lifecycle-flow.png)
