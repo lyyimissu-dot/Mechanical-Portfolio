@@ -35,4 +35,4 @@ All major dimensions were set up as parameter-driven values, allowing the main p
 - Assembly drawing PDF
 - Individual part drawing PDFs
 - Flat pattern views
-- Assembly and exploded-view screenshots
+- Assembly and exploded-views
