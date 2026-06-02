@@ -1,4 +1,4 @@
-# FEA Demonstration (Non-Confidential)
+# FEA Demonstration
 
 This page summarizes several simplified FEA studies I completed to validate mechanical behavior of stacker-crane components.  
 All models shown here are **non-confidential**, re-created or simplified for public presentation.
