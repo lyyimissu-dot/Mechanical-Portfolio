@@ -16,4 +16,4 @@ This portfolio highlights:
 2. **Engineering Analysis** – risk assessment, hot stamping analysis  
 3. **Project Management** – WBS, Critical Path, FMEA, Cost Estimation  
 4. **Personal Development** – Wavemakers project  
-5. **Sustainable manufacturing + Circular economics Research (ongoing)**
+5. **Sustainable manufacturing + Circular economics Research **
